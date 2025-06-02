@@ -1,7 +1,7 @@
 # Hello !!!!!! 🙌
 Here is a Simple Rock Paper Scissors Game Made by Pure JavaScript with Some Basic CSS and HTML.<br>
 <br>
-<h4>Implementation Possibilities :<br></h4>
+<h3>Implementation Possibilities :<br></h3>
 --Console-based (text input/output)
 
 --GUI-based (buttons, images)
