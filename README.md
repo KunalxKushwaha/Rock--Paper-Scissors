@@ -10,7 +10,7 @@ Here is a Simple Rock Paper Scissors Game Made by Pure JavaScript with Some Basi
 
 --Player vs Computer (with random or AI-based choice)
 
-Gameplay (General Flow)
+Gameplay (General Flow) <br>
 Players choose Rock, Paper, or Scissors.
 
 The game compares the choices.
