@@ -19,7 +19,7 @@ It declares a winner or a tie based on the rules.
 
 The game can be played in a single round or multiple rounds to determine an overall winner.
 
-The rules are straightforward:
+<h3>The rules are straightforward:</h3>
 
 Rock crushes Scissors
 
