@@ -27,14 +27,7 @@ Scissors cuts Paper
 
 Paper covers Rock
 
-Each shape beats one of the other two, loses to one, and ties with itself. The outcome of a round is based on the combination of choices:
+Each shape beats one of the other two, loses to one, and ties with itself. The outcome of a round is based on the combination of choices.
 
-<h4>Player 1<div>       </div>   	Player 2	<div>       </div>    Result<br></h4> 
-Rock	        Scissors	    Player 1 wins<br>
-Scissors     	Paper	        Player 1 wins<br>
-Paper       	Rock	        Player 1 wins<br>
-Rock	        Paper	        Player 2 wins<br>
-Scissors    	Rock	        Player 2 wins<br>
-Paper	        Scissors	    Player 2 wins<br>
-Same	        Same	        Draw (tie)<br>
+
 
