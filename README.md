@@ -21,11 +21,11 @@ The game can be played in a single round or multiple rounds to determine an over
 
 <h3>The rules are straightforward:</h3>
 
-Rock crushes Scissors
+Rock crushes Scissors👊
 
-Scissors cuts Paper
+Scissors cuts Paper✌️
 
-Paper covers Rock
+Paper covers Rock🖐️
 
 Each shape beats one of the other two, loses to one, and ties with itself. The outcome of a round is based on the combination of choices.
 
