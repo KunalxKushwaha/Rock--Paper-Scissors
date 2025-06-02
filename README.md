@@ -19,3 +19,22 @@ It declares a winner or a tie based on the rules.
 
 The game can be played in a single round or multiple rounds to determine an overall winner.
 
+The rules are straightforward:
+
+Rock crushes Scissors
+
+Scissors cuts Paper
+
+Paper covers Rock
+
+Each shape beats one of the other two, loses to one, and ties with itself. The outcome of a round is based on the combination of choices:
+
+Player 1	Player 2	Result
+Rock	Scissors	Player 1 wins
+Scissors	Paper	Player 1 wins
+Paper	Rock	Player 1 wins
+Rock	Paper	Player 2 wins
+Scissors	Rock	Player 2 wins
+Paper	Scissors	Player 2 wins
+Same	Same	Draw (tie)
+
