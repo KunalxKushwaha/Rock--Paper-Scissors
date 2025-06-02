@@ -29,5 +29,7 @@ Paper covers Rock🖐️
 
 Each shape beats one of the other two, loses to one, and ties with itself. The outcome of a round is based on the combination of choices.
 
+# Author - Kunal Kushwaha..
+
 
 
