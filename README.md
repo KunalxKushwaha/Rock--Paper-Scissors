@@ -18,7 +18,7 @@
 
 ---
 
-## 🕹️ Game Description
+## 🕹️ Game Description:
 
 The **Rock Paper Scissors Game** is a fun and interactive browser-based game where the player competes against the computer. The rules are simple:
 
