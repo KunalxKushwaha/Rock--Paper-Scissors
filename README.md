@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo:
 
 🚀 [Click here to play!](https://your-live-site-link.com)
 
