@@ -75,7 +75,7 @@ start index.html
 That’s it. No additional setup required!
 
 
----
+--- 
 
 🖼️ Screenshots
 
