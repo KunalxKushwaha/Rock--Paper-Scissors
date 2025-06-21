@@ -112,7 +112,7 @@ if (playerChoice === computerChoice) {
 
 🔊 Add sound effects and background music
 
-📱 Convert to mobile app using PWA or React Native
+📱 Convert to mobile app using PWA or React Native.
 
 🌐 Add multiplayer functionality
 
