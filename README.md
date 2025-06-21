@@ -124,7 +124,7 @@ if (playerChoice === computerChoice) {
 
 Inspired by the original Rock-Paper-Scissors game
 
-Developed with 💙 by Your Name
+Developed with 💙 by Kunal Kushwaha.
 
 
 
