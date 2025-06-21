@@ -36,7 +36,7 @@ First to 5 points wins the game!
 - 🧠 Computer generates random choices.
 - 📊 Real-time score tracking.
 - 🔁 Reset and restart options
-- ⚡ Smooth animations & transitions
+- ⚡ Smooth animations & transitions.
 
 ---
 
