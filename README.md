@@ -34,7 +34,7 @@ First to 5 points wins the game!
 
 - 🎨 Responsive and modern UI.
 - 🧠 Computer generates random choices.
-- 📊 Real-time score tracking
+- 📊 Real-time score tracking.
 - 🔁 Reset and restart options
 - ⚡ Smooth animations & transitions
 
