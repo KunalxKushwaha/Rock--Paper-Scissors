@@ -56,7 +56,7 @@ rock-paper-scissors/ │ ├── index.html        # Main HTML structure ├�
 
 ---
 
-## 🔧 How to Run Locally
+## 🔧 How to Run Locally:
 
 ### 🧱 Clone the repository
 
