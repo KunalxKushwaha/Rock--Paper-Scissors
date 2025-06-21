@@ -40,7 +40,7 @@ First to 5 points wins the game!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 | Technology | Usage                        |
 |------------|------------------------------|
