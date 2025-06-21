@@ -61,7 +61,7 @@ rock-paper-scissors/ │ ├── index.html        # Main HTML structure ├�
 ### 🧱 Clone the repository
 
 ```bash
-git clone https://github.com/KunalxKushwaha/rock--paper-scissors.git
+git clone https://github.com/KunalxKushwaha/Rock--paper-scissors.git
 cd rock-paper-scissors
 
 💻 Open index.html in your browser
