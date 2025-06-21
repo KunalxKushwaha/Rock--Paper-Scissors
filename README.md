@@ -106,7 +106,7 @@ if (playerChoice === computerChoice) {
 
 ---
 
-🚀 Future Enhancements
+🚀 Future Enhancements:
 
 🗣️ Add voice commands
 
