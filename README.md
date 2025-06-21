@@ -30,7 +30,7 @@ First to 5 points wins the game!
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - 🎨 Responsive and modern UI.
 - 🧠 Computer generates random choices.
