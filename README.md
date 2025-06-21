@@ -135,6 +135,3 @@ Developed with 💙 by Your Name
 This project is licensed under the MIT License.
 
 ---
-
-Would you like me to generate the **starter files** for the game (`index.html`, `style.css`, and `script.js`) with animations and score tracking included?
-
