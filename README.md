@@ -120,7 +120,7 @@ if (playerChoice === computerChoice) {
 
 ---
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
 
 Inspired by the original Rock-Paper-Scissors game
 
