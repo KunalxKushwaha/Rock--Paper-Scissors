@@ -120,6 +120,12 @@ if (playerChoice === computerChoice) {
 
 ---
 
+📄 License
+
+This project is licensed under the MIT License.
+
+---
+
 <h3>🙌 Acknowledgements:</h3>
 
 Inspired by the original Rock-Paper-Scissors game
@@ -128,10 +134,4 @@ Developed with 💙 by Kunal Kushwaha.
 
 
 
----
 
-📄 License
-
-This project is licensed under the MIT License.
-
----
