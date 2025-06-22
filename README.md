@@ -106,7 +106,7 @@ if (playerChoice === computerChoice) {
 ```
 ---
 
-🚀 Future Enhancements:
+<h3>🚀 Future Enhancements:</h3>
 
 🗣️ Add voice commands
 
