@@ -76,7 +76,7 @@ That’s it. No additional setup required!
 
 ```
 
-🖼️ Screenshots
+<h3>🖼️ Screenshots</h3>
 
 > (Replace these links with your real game UI images)
 
