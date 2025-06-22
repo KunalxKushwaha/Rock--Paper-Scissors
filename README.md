@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 Live Demo:
+## 🌐 Live Demo
 
 🚀 [Click here to play!](https://rock-paper-scissors-kunalxkushwahas-projects.vercel.app)
 
