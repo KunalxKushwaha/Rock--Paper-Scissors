@@ -86,7 +86,6 @@ That’s it. No additional setup required!
   <img src="https://your-image-url.com/screenshot1.png" width="400"/>
   <img src="https://your-image-url.com/screenshot2.png" width="400"/>
 </p>
----
 
 💡 Game Logic (Summary)
 
