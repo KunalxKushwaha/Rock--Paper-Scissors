@@ -76,12 +76,13 @@ That’s it. No additional setup required!
 
 
 --- 
+```
 
 🖼️ Screenshots
 
 > (Replace these links with your real game UI images)
 
-
+```
 
 <p align="center">
   <img src="https://your-image-url.com/screenshot1.png" width="400"/>
