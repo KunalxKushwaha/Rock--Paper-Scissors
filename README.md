@@ -50,7 +50,7 @@ First to 5 points wins the game!
 
 ---
 
-## 📂 Project Structure:
+## 📂 Project Structure
 
 Rock--Paper-Scissors/ │ ├── index.html        # Main HTML structure ├── style.css         # Styling and responsiveness └── script.js         # Game logic and DOM manipulation
 
