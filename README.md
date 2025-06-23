@@ -108,7 +108,7 @@ if (playerChoice === computerChoice) {
 
 🗣️ Add voice commands.
 
-🔊 Add sound effects and background music
+🔊 Add sound effects and background music.
 
 📱 Convert to mobile app using PWA or React Native.
 
