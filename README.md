@@ -112,7 +112,7 @@ if (playerChoice === computerChoice) {
 
 📱 Convert to mobile app using PWA or React Native.
 
-🌐 Add multiplayer functionality
+🌐 Add multiplayer functionality.
 
 
 
