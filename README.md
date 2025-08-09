@@ -24,7 +24,7 @@ The **Rock Paper Scissors Game** is a fun and interactive browser-based game whe
 
 - 🪨 Rock beats ✂️ Scissors . 
 - 📄 Paper beats 🪨 Rock  .
-- ✂️ Scissors beats 📄 Paper  
+- ✂️ Scissors beats 📄 Paper .
 
 First to 5 points wins the game!
 
