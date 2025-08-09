@@ -23,7 +23,7 @@
 The **Rock Paper Scissors Game** is a fun and interactive browser-based game where the player competes against the computer. The rules are simple:
 
 - 🪨 Rock beats ✂️ Scissors . 
-- 📄 Paper beats 🪨 Rock  
+- 📄 Paper beats 🪨 Rock  .
 - ✂️ Scissors beats 📄 Paper  
 
 First to 5 points wins the game!
